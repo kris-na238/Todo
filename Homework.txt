@@ -1,0 +1,74 @@
+Homework 11-04-2023
+ - 5 diffrence between sql and nosql
+
+12-04-2023
+ - what algorithm mongodb uses to generate _id
+ - rewatch and practice all the commands run during the session
+ - create a databse "Hospital"
+    - create patients collections
+    - single patient document looks like
+      {
+        name : "xyz",
+        age :58,
+        illness :"fever",
+        gender : "male",
+        address :"delhi"
+      }
+    - insert 10 patients documents in collection
+    - perform all find commands practiced in today session
+
+18-04-2023
+  - intall postman in your system
+  - install nodejs in your system
+  - libuv
+  - Promises
+  - put patch delete
+
+19-04-2023
+  - pros and cons of expressJs
+  - install any todo application and go through the features it has
+
+
+20-04-2023
+  - Nodemon
+  - Todo application Requirement Gathering
+    ApliList:
+      - createTask
+      - getTaskLists
+      - updateTask
+      - deleteTask
+      - register
+      - login
+      - logout
+    DB 
+    collection list :
+      - Users
+        {
+          name : "krishna",
+          email : "krishna@gmail.com",
+          dob : "01-01-1996",
+          phone : 1234567890
+          password : "123456",
+          gender : "male",
+          //profile_picture:""
+        }
+      - Tasks
+        {
+            title : "Call to your father",
+            description : "some description goes here",
+            start_date : "2023-04-20",
+            end_date : "2023-04-20",
+            is_completed : false,
+            is_deleted : false,
+            user_id : ObjectId("bhjrherjbrerjgbegeghjg)
+
+        }
+- Database connection
+- Global
+- window objet in the browser
+
+    Homework
+    - Global variable in Nodejs
+    - useUnifiedTopology
+    - async/await
+
